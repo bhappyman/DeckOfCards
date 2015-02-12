@@ -36,6 +36,7 @@ namespace DeckOfCards
     
     // What makes a card?
 	//     A card is comprised of it’s suit and its rank.  Both of which are enumerations.
+    //     These enumerations should be "Suit" and "Rank"
     class Card
     {
 
