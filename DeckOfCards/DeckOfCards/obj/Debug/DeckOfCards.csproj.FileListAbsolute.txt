@@ -6,3 +6,11 @@ C:\Users\dustin\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\bin\Debug\n
 C:\Users\dustin\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
 C:\Users\dustin\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.exe
 C:\Users\dustin\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.pdb
+C:\Users\Technologist SP\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+C:\Users\Technologist SP\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.exe
+C:\Users\Technologist SP\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe
+C:\Users\Technologist SP\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.pdb
+C:\Users\Technologist SP\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\bin\Debug\nunit.framework.dll
+C:\Users\Technologist SP\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\bin\Debug\nunit.framework.xml
+C:\Users\Technologist SP\Documents\GitHub\DeckOfCards\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.pdb
